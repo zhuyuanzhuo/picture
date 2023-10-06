@@ -1,2 +1,2 @@
-# picture.github.io
+# picture
 图片墙
